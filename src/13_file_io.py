@@ -18,7 +18,7 @@ with open('foo.txt') as f:
 # then close the file. Open up "bar.txt" and inspect it to make
 # sure that it contains what you expect it to contain
 b = open('bar.txt', 'w')
-data = "This is a test\n"
+data = "This is a test\nThis is a test\nThis is a test"
 b.write(data)
 b.close
 

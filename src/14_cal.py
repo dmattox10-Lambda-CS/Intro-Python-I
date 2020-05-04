@@ -43,7 +43,7 @@ year = now.year
 # 1 arg should be month
 if len(args) == 1:
       pass
-if len(args) == 2:
+elif len(args) == 2:
       month = int(args[1])
 # 2 args should be month and year
 elif len(args) == 3:
