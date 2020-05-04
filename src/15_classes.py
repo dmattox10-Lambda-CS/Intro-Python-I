@@ -1,6 +1,5 @@
 # Make a class LatLon that can be passed parameters `lat` and `lon` to the
 # constructor
-# TODO __str__ HELP ME!
 # YOUR CODE HERE
 class LatLon(object):
 

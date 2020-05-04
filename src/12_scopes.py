@@ -32,5 +32,3 @@ def outer():
 
 
 outer()
-
-# TODO REMEMBER TO TELL TEAM TO USE PYTHON 3 FOR THIS ONE!
